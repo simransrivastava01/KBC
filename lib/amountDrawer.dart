@@ -5,7 +5,7 @@ class AmountDrawer extends StatefulWidget {
   final int drawerQues;
   AmountDrawer({this.drawerQues});
   @override
-  _AmountDrawerState createState() => _AmountDrawerState(drawerQues: drawerQues);
+  _AmountDrawerState createState() => _AmountDrawerState(drawerQues: drawerQues); 
 }
 
 class _AmountDrawerState extends State<AmountDrawer> {
