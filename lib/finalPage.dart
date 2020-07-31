@@ -27,7 +27,7 @@ class FinalPage extends StatefulWidget {
       finalQues, finalOpt1, finalOpt2, finalOpt3, finalOpt4, finalAns, isQuit);
 }
 
-class _FinalPageState extends State<FinalPage> {
+class _FinalPageState extends State<FinalPage> { 
   final amount;
   final quesAttempted;
   final finalQues;
